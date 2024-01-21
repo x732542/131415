@@ -1,0 +1,36 @@
+#a ul li{
+    display:inline;
+}
+#a ul{
+    position: absolute;
+    top: 0;
+    right: 0;
+    list-style: none; 
+    padding: 0;
+}
+.b{
+    position: relative;
+    text-align: center;
+    padding: 20px;
+    z-index: 2;
+}
+video{
+    position: relative;
+    text-align: center;
+    display: block;
+    margin: auto;
+    z-index: 1;
+}
+body {
+    color: white;
+    margin: 0;
+    padding: 0;
+    background-image: url('308.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
+.container{
+    position: relative;
+}
